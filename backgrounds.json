@@ -1,0 +1,25 @@
+[{
+    "name": "Light",
+    "value": "light"
+},
+{
+    "name": "Dark",
+    "value": "dark"
+},
+{
+    "name": "Primary",
+    "value": "primary"
+},
+{
+    "name": "Secondary",
+    "value": "Secondary"
+},
+{
+    "name": "Gradient 01",
+    "value": "gradient_01"
+},
+{
+    "name": "Gradient 02",
+    "value": "gradient_02"
+}
+]
