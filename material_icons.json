@@ -1,0 +1,2800 @@
+[{
+    "name": "3d_rotation",
+    "value": "3d_rotation"
+}, {
+    "name": "ac_unit",
+    "value": "ac_unit"
+}, {
+    "name": "access_alarm",
+    "value": "access_alarm"
+}, {
+    "name": "access_alarms",
+    "value": "access_alarms"
+}, {
+    "name": "access_time",
+    "value": "access_time"
+}, {
+    "name": "accessibility",
+    "value": "accessibility"
+}, {
+    "name": "accessible",
+    "value": "accessible"
+}, {
+    "name": "account_balance",
+    "value": "account_balance"
+}, {
+    "name": "account_balance_wallet",
+    "value": "account_balance_wallet"
+}, {
+    "name": "account_box",
+    "value": "account_box"
+}, {
+    "name": "account_circle",
+    "value": "account_circle"
+}, {
+    "name": "adb",
+    "value": "adb"
+}, {
+    "name": "add",
+    "value": "add"
+}, {
+    "name": "add_a_photo",
+    "value": "add_a_photo"
+}, {
+    "name": "add_alarm",
+    "value": "add_alarm"
+}, {
+    "name": "add_alert",
+    "value": "add_alert"
+}, {
+    "name": "add_box",
+    "value": "add_box"
+}, {
+    "name": "add_circle",
+    "value": "add_circle"
+}, {
+    "name": "add_circle_outline",
+    "value": "add_circle_outline"
+}, {
+    "name": "add_location",
+    "value": "add_location"
+}, {
+    "name": "add_shopping_cart",
+    "value": "add_shopping_cart"
+}, {
+    "name": "add_to_photos",
+    "value": "add_to_photos"
+}, {
+    "name": "add_to_queue",
+    "value": "add_to_queue"
+}, {
+    "name": "adjust",
+    "value": "adjust"
+}, {
+    "name": "airline_seat_flat",
+    "value": "airline_seat_flat"
+}, {
+    "name": "airline_seat_flat_angled",
+    "value": "airline_seat_flat_angled"
+}, {
+    "name": "airline_seat_individual_suite",
+    "value": "airline_seat_individual_suite"
+}, {
+    "name": "airline_seat_legroom_extra",
+    "value": "airline_seat_legroom_extra"
+}, {
+    "name": "airline_seat_legroom_normal",
+    "value": "airline_seat_legroom_normal"
+}, {
+    "name": "airline_seat_legroom_reduced",
+    "value": "airline_seat_legroom_reduced"
+}, {
+    "name": "airline_seat_recline_extra",
+    "value": "airline_seat_recline_extra"
+}, {
+    "name": "airline_seat_recline_normal",
+    "value": "airline_seat_recline_normal"
+}, {
+    "name": "airplanemode_active",
+    "value": "airplanemode_active"
+}, {
+    "name": "airplanemode_inactive",
+    "value": "airplanemode_inactive"
+}, {
+    "name": "airplay",
+    "value": "airplay"
+}, {
+    "name": "airport_shuttle",
+    "value": "airport_shuttle"
+}, {
+    "name": "alarm",
+    "value": "alarm"
+}, {
+    "name": "alarm_add",
+    "value": "alarm_add"
+}, {
+    "name": "alarm_off",
+    "value": "alarm_off"
+}, {
+    "name": "alarm_on",
+    "value": "alarm_on"
+}, {
+    "name": "album",
+    "value": "album"
+}, {
+    "name": "all_inclusive",
+    "value": "all_inclusive"
+}, {
+    "name": "all_out",
+    "value": "all_out"
+}, {
+    "name": "android",
+    "value": "android"
+}, {
+    "name": "announcement",
+    "value": "announcement"
+}, {
+    "name": "apps",
+    "value": "apps"
+}, {
+    "name": "archive",
+    "value": "archive"
+}, {
+    "name": "arrow_back",
+    "value": "arrow_back"
+}, {
+    "name": "arrow_downward",
+    "value": "arrow_downward"
+}, {
+    "name": "arrow_drop_down",
+    "value": "arrow_drop_down"
+}, {
+    "name": "arrow_drop_down_circle",
+    "value": "arrow_drop_down_circle"
+}, {
+    "name": "arrow_drop_up",
+    "value": "arrow_drop_up"
+}, {
+    "name": "arrow_forward",
+    "value": "arrow_forward"
+}, {
+    "name": "arrow_upward",
+    "value": "arrow_upward"
+}, {
+    "name": "art_track",
+    "value": "art_track"
+}, {
+    "name": "aspect_ratio",
+    "value": "aspect_ratio"
+}, {
+    "name": "assessment",
+    "value": "assessment"
+}, {
+    "name": "assignment",
+    "value": "assignment"
+}, {
+    "name": "assignment_ind",
+    "value": "assignment_ind"
+}, {
+    "name": "assignment_late",
+    "value": "assignment_late"
+}, {
+    "name": "assignment_return",
+    "value": "assignment_return"
+}, {
+    "name": "assignment_returned",
+    "value": "assignment_returned"
+}, {
+    "name": "assignment_turned_in",
+    "value": "assignment_turned_in"
+}, {
+    "name": "assistant",
+    "value": "assistant"
+}, {
+    "name": "assistant_photo",
+    "value": "assistant_photo"
+}, {
+    "name": "attach_file",
+    "value": "attach_file"
+}, {
+    "name": "attach_money",
+    "value": "attach_money"
+}, {
+    "name": "attachment",
+    "value": "attachment"
+}, {
+    "name": "audiotrack",
+    "value": "audiotrack"
+}, {
+    "name": "autorenew",
+    "value": "autorenew"
+}, {
+    "name": "av_timer",
+    "value": "av_timer"
+}, {
+    "name": "backspace",
+    "value": "backspace"
+}, {
+    "name": "backup",
+    "value": "backup"
+}, {
+    "name": "battery_alert",
+    "value": "battery_alert"
+}, {
+    "name": "battery_charging_full",
+    "value": "battery_charging_full"
+}, {
+    "name": "battery_full",
+    "value": "battery_full"
+}, {
+    "name": "battery_std",
+    "value": "battery_std"
+}, {
+    "name": "battery_unknown",
+    "value": "battery_unknown"
+}, {
+    "name": "beach_access",
+    "value": "beach_access"
+}, {
+    "name": "beenhere",
+    "value": "beenhere"
+}, {
+    "name": "block",
+    "value": "block"
+}, {
+    "name": "bluetooth",
+    "value": "bluetooth"
+}, {
+    "name": "bluetooth_audio",
+    "value": "bluetooth_audio"
+}, {
+    "name": "bluetooth_connected",
+    "value": "bluetooth_connected"
+}, {
+    "name": "bluetooth_disabled",
+    "value": "bluetooth_disabled"
+}, {
+    "name": "bluetooth_searching",
+    "value": "bluetooth_searching"
+}, {
+    "name": "blur_circular",
+    "value": "blur_circular"
+}, {
+    "name": "blur_linear",
+    "value": "blur_linear"
+}, {
+    "name": "blur_off",
+    "value": "blur_off"
+}, {
+    "name": "blur_on",
+    "value": "blur_on"
+}, {
+    "name": "book",
+    "value": "book"
+}, {
+    "name": "bookmark",
+    "value": "bookmark"
+}, {
+    "name": "bookmark_border",
+    "value": "bookmark_border"
+}, {
+    "name": "border_all",
+    "value": "border_all"
+}, {
+    "name": "border_bottom",
+    "value": "border_bottom"
+}, {
+    "name": "border_clear",
+    "value": "border_clear"
+}, {
+    "name": "border_color",
+    "value": "border_color"
+}, {
+    "name": "border_horizontal",
+    "value": "border_horizontal"
+}, {
+    "name": "border_inner",
+    "value": "border_inner"
+}, {
+    "name": "border_left",
+    "value": "border_left"
+}, {
+    "name": "border_outer",
+    "value": "border_outer"
+}, {
+    "name": "border_right",
+    "value": "border_right"
+}, {
+    "name": "border_style",
+    "value": "border_style"
+}, {
+    "name": "border_top",
+    "value": "border_top"
+}, {
+    "name": "border_vertical",
+    "value": "border_vertical"
+}, {
+    "name": "branding_watermark",
+    "value": "branding_watermark"
+}, {
+    "name": "brightness_1",
+    "value": "brightness_1"
+}, {
+    "name": "brightness_2",
+    "value": "brightness_2"
+}, {
+    "name": "brightness_3",
+    "value": "brightness_3"
+}, {
+    "name": "brightness_4",
+    "value": "brightness_4"
+}, {
+    "name": "brightness_5",
+    "value": "brightness_5"
+}, {
+    "name": "brightness_6",
+    "value": "brightness_6"
+}, {
+    "name": "brightness_7",
+    "value": "brightness_7"
+}, {
+    "name": "brightness_auto",
+    "value": "brightness_auto"
+}, {
+    "name": "brightness_high",
+    "value": "brightness_high"
+}, {
+    "name": "brightness_low",
+    "value": "brightness_low"
+}, {
+    "name": "brightness_medium",
+    "value": "brightness_medium"
+}, {
+    "name": "broken_image",
+    "value": "broken_image"
+}, {
+    "name": "brush",
+    "value": "brush"
+}, {
+    "name": "bubble_chart",
+    "value": "bubble_chart"
+}, {
+    "name": "bug_report",
+    "value": "bug_report"
+}, {
+    "name": "build",
+    "value": "build"
+}, {
+    "name": "burst_mode",
+    "value": "burst_mode"
+}, {
+    "name": "business",
+    "value": "business"
+}, {
+    "name": "business_center",
+    "value": "business_center"
+}, {
+    "name": "cached",
+    "value": "cached"
+}, {
+    "name": "cake",
+    "value": "cake"
+}, {
+    "name": "call",
+    "value": "call"
+}, {
+    "name": "call_end",
+    "value": "call_end"
+}, {
+    "name": "call_made",
+    "value": "call_made"
+}, {
+    "name": "call_merge",
+    "value": "call_merge"
+}, {
+    "name": "call_missed",
+    "value": "call_missed"
+}, {
+    "name": "call_missed_outgoing",
+    "value": "call_missed_outgoing"
+}, {
+    "name": "call_received",
+    "value": "call_received"
+}, {
+    "name": "call_split",
+    "value": "call_split"
+}, {
+    "name": "call_to_action",
+    "value": "call_to_action"
+}, {
+    "name": "camera",
+    "value": "camera"
+}, {
+    "name": "camera_alt",
+    "value": "camera_alt"
+}, {
+    "name": "camera_enhance",
+    "value": "camera_enhance"
+}, {
+    "name": "camera_front",
+    "value": "camera_front"
+}, {
+    "name": "camera_rear",
+    "value": "camera_rear"
+}, {
+    "name": "camera_roll",
+    "value": "camera_roll"
+}, {
+    "name": "cancel",
+    "value": "cancel"
+}, {
+    "name": "card_giftcard",
+    "value": "card_giftcard"
+}, {
+    "name": "card_membership",
+    "value": "card_membership"
+}, {
+    "name": "card_travel",
+    "value": "card_travel"
+}, {
+    "name": "casino",
+    "value": "casino"
+}, {
+    "name": "cast",
+    "value": "cast"
+}, {
+    "name": "cast_connected",
+    "value": "cast_connected"
+}, {
+    "name": "center_focus_strong",
+    "value": "center_focus_strong"
+}, {
+    "name": "center_focus_weak",
+    "value": "center_focus_weak"
+}, {
+    "name": "change_history",
+    "value": "change_history"
+}, {
+    "name": "chat",
+    "value": "chat"
+}, {
+    "name": "chat_bubble",
+    "value": "chat_bubble"
+}, {
+    "name": "chat_bubble_outline",
+    "value": "chat_bubble_outline"
+}, {
+    "name": "check",
+    "value": "check"
+}, {
+    "name": "check_box",
+    "value": "check_box"
+}, {
+    "name": "check_box_outline_blank",
+    "value": "check_box_outline_blank"
+}, {
+    "name": "check_circle",
+    "value": "check_circle"
+}, {
+    "name": "chevron_left",
+    "value": "chevron_left"
+}, {
+    "name": "chevron_right",
+    "value": "chevron_right"
+}, {
+    "name": "child_care",
+    "value": "child_care"
+}, {
+    "name": "child_friendly",
+    "value": "child_friendly"
+}, {
+    "name": "chrome_reader_mode",
+    "value": "chrome_reader_mode"
+}, {
+    "name": "class",
+    "value": "class"
+}, {
+    "name": "clear",
+    "value": "clear"
+}, {
+    "name": "clear_all",
+    "value": "clear_all"
+}, {
+    "name": "close",
+    "value": "close"
+}, {
+    "name": "closed_caption",
+    "value": "closed_caption"
+}, {
+    "name": "cloud",
+    "value": "cloud"
+}, {
+    "name": "cloud_circle",
+    "value": "cloud_circle"
+}, {
+    "name": "cloud_done",
+    "value": "cloud_done"
+}, {
+    "name": "cloud_download",
+    "value": "cloud_download"
+}, {
+    "name": "cloud_off",
+    "value": "cloud_off"
+}, {
+    "name": "cloud_queue",
+    "value": "cloud_queue"
+}, {
+    "name": "cloud_upload",
+    "value": "cloud_upload"
+}, {
+    "name": "code",
+    "value": "code"
+}, {
+    "name": "collections",
+    "value": "collections"
+}, {
+    "name": "collections_bookmark",
+    "value": "collections_bookmark"
+}, {
+    "name": "color_lens",
+    "value": "color_lens"
+}, {
+    "name": "colorize",
+    "value": "colorize"
+}, {
+    "name": "comment",
+    "value": "comment"
+}, {
+    "name": "compare",
+    "value": "compare"
+}, {
+    "name": "compare_arrows",
+    "value": "compare_arrows"
+}, {
+    "name": "computer",
+    "value": "computer"
+}, {
+    "name": "confirmation_number",
+    "value": "confirmation_number"
+}, {
+    "name": "contact_mail",
+    "value": "contact_mail"
+}, {
+    "name": "contact_phone",
+    "value": "contact_phone"
+}, {
+    "name": "contacts",
+    "value": "contacts"
+}, {
+    "name": "content_copy",
+    "value": "content_copy"
+}, {
+    "name": "content_cut",
+    "value": "content_cut"
+}, {
+    "name": "content_paste",
+    "value": "content_paste"
+}, {
+    "name": "control_point",
+    "value": "control_point"
+}, {
+    "name": "control_point_duplicate",
+    "value": "control_point_duplicate"
+}, {
+    "name": "copyright",
+    "value": "copyright"
+}, {
+    "name": "create",
+    "value": "create"
+}, {
+    "name": "create_new_folder",
+    "value": "create_new_folder"
+}, {
+    "name": "credit_card",
+    "value": "credit_card"
+}, {
+    "name": "crop",
+    "value": "crop"
+}, {
+    "name": "crop_16_9",
+    "value": "crop_16_9"
+}, {
+    "name": "crop_3_2",
+    "value": "crop_3_2"
+}, {
+    "name": "crop_5_4",
+    "value": "crop_5_4"
+}, {
+    "name": "crop_7_5",
+    "value": "crop_7_5"
+}, {
+    "name": "crop_din",
+    "value": "crop_din"
+}, {
+    "name": "crop_free",
+    "value": "crop_free"
+}, {
+    "name": "crop_landscape",
+    "value": "crop_landscape"
+}, {
+    "name": "crop_original",
+    "value": "crop_original"
+}, {
+    "name": "crop_portrait",
+    "value": "crop_portrait"
+}, {
+    "name": "crop_rotate",
+    "value": "crop_rotate"
+}, {
+    "name": "crop_square",
+    "value": "crop_square"
+}, {
+    "name": "dashboard",
+    "value": "dashboard"
+}, {
+    "name": "data_usage",
+    "value": "data_usage"
+}, {
+    "name": "date_range",
+    "value": "date_range"
+}, {
+    "name": "dehaze",
+    "value": "dehaze"
+}, {
+    "name": "delete",
+    "value": "delete"
+}, {
+    "name": "delete_forever",
+    "value": "delete_forever"
+}, {
+    "name": "delete_sweep",
+    "value": "delete_sweep"
+}, {
+    "name": "description",
+    "value": "description"
+}, {
+    "name": "desktop_mac",
+    "value": "desktop_mac"
+}, {
+    "name": "desktop_windows",
+    "value": "desktop_windows"
+}, {
+    "name": "details",
+    "value": "details"
+}, {
+    "name": "developer_board",
+    "value": "developer_board"
+}, {
+    "name": "developer_mode",
+    "value": "developer_mode"
+}, {
+    "name": "device_hub",
+    "value": "device_hub"
+}, {
+    "name": "devices",
+    "value": "devices"
+}, {
+    "name": "devices_other",
+    "value": "devices_other"
+}, {
+    "name": "dialer_sip",
+    "value": "dialer_sip"
+}, {
+    "name": "dialpad",
+    "value": "dialpad"
+}, {
+    "name": "directions",
+    "value": "directions"
+}, {
+    "name": "directions_bike",
+    "value": "directions_bike"
+}, {
+    "name": "directions_boat",
+    "value": "directions_boat"
+}, {
+    "name": "directions_bus",
+    "value": "directions_bus"
+}, {
+    "name": "directions_car",
+    "value": "directions_car"
+}, {
+    "name": "directions_railway",
+    "value": "directions_railway"
+}, {
+    "name": "directions_run",
+    "value": "directions_run"
+}, {
+    "name": "directions_subway",
+    "value": "directions_subway"
+}, {
+    "name": "directions_transit",
+    "value": "directions_transit"
+}, {
+    "name": "directions_walk",
+    "value": "directions_walk"
+}, {
+    "name": "disc_full",
+    "value": "disc_full"
+}, {
+    "name": "dns",
+    "value": "dns"
+}, {
+    "name": "do_not_disturb",
+    "value": "do_not_disturb"
+}, {
+    "name": "do_not_disturb_alt",
+    "value": "do_not_disturb_alt"
+}, {
+    "name": "do_not_disturb_off",
+    "value": "do_not_disturb_off"
+}, {
+    "name": "do_not_disturb_on",
+    "value": "do_not_disturb_on"
+}, {
+    "name": "dock",
+    "value": "dock"
+}, {
+    "name": "domain",
+    "value": "domain"
+}, {
+    "name": "done",
+    "value": "done"
+}, {
+    "name": "done_all",
+    "value": "done_all"
+}, {
+    "name": "donut_large",
+    "value": "donut_large"
+}, {
+    "name": "donut_small",
+    "value": "donut_small"
+}, {
+    "name": "drafts",
+    "value": "drafts"
+}, {
+    "name": "drag_handle",
+    "value": "drag_handle"
+}, {
+    "name": "drive_eta",
+    "value": "drive_eta"
+}, {
+    "name": "dvr",
+    "value": "dvr"
+}, {
+    "name": "edit",
+    "value": "edit"
+}, {
+    "name": "edit_location",
+    "value": "edit_location"
+}, {
+    "name": "eject",
+    "value": "eject"
+}, {
+    "name": "email",
+    "value": "email"
+}, {
+    "name": "enhanced_encryption",
+    "value": "enhanced_encryption"
+}, {
+    "name": "equalizer",
+    "value": "equalizer"
+}, {
+    "name": "error",
+    "value": "error"
+}, {
+    "name": "error_outline",
+    "value": "error_outline"
+}, {
+    "name": "euro_symbol",
+    "value": "euro_symbol"
+}, {
+    "name": "ev_station",
+    "value": "ev_station"
+}, {
+    "name": "event",
+    "value": "event"
+}, {
+    "name": "event_available",
+    "value": "event_available"
+}, {
+    "name": "event_busy",
+    "value": "event_busy"
+}, {
+    "name": "event_note",
+    "value": "event_note"
+}, {
+    "name": "event_seat",
+    "value": "event_seat"
+}, {
+    "name": "exit_to_app",
+    "value": "exit_to_app"
+}, {
+    "name": "expand_less",
+    "value": "expand_less"
+}, {
+    "name": "expand_more",
+    "value": "expand_more"
+}, {
+    "name": "explicit",
+    "value": "explicit"
+}, {
+    "name": "explore",
+    "value": "explore"
+}, {
+    "name": "exposure",
+    "value": "exposure"
+}, {
+    "name": "exposure_neg_1",
+    "value": "exposure_neg_1"
+}, {
+    "name": "exposure_neg_2",
+    "value": "exposure_neg_2"
+}, {
+    "name": "exposure_plus_1",
+    "value": "exposure_plus_1"
+}, {
+    "name": "exposure_plus_2",
+    "value": "exposure_plus_2"
+}, {
+    "name": "exposure_zero",
+    "value": "exposure_zero"
+}, {
+    "name": "extension",
+    "value": "extension"
+}, {
+    "name": "face",
+    "value": "face"
+}, {
+    "name": "fast_forward",
+    "value": "fast_forward"
+}, {
+    "name": "fast_rewind",
+    "value": "fast_rewind"
+}, {
+    "name": "favorite",
+    "value": "favorite"
+}, {
+    "name": "favorite_border",
+    "value": "favorite_border"
+}, {
+    "name": "featured_play_list",
+    "value": "featured_play_list"
+}, {
+    "name": "featured_video",
+    "value": "featured_video"
+}, {
+    "name": "feedback",
+    "value": "feedback"
+}, {
+    "name": "fiber_dvr",
+    "value": "fiber_dvr"
+}, {
+    "name": "fiber_manual_record",
+    "value": "fiber_manual_record"
+}, {
+    "name": "fiber_new",
+    "value": "fiber_new"
+}, {
+    "name": "fiber_pin",
+    "value": "fiber_pin"
+}, {
+    "name": "fiber_smart_record",
+    "value": "fiber_smart_record"
+}, {
+    "name": "file_download",
+    "value": "file_download"
+}, {
+    "name": "file_upload",
+    "value": "file_upload"
+}, {
+    "name": "filter",
+    "value": "filter"
+}, {
+    "name": "filter_1",
+    "value": "filter_1"
+}, {
+    "name": "filter_2",
+    "value": "filter_2"
+}, {
+    "name": "filter_3",
+    "value": "filter_3"
+}, {
+    "name": "filter_4",
+    "value": "filter_4"
+}, {
+    "name": "filter_5",
+    "value": "filter_5"
+}, {
+    "name": "filter_6",
+    "value": "filter_6"
+}, {
+    "name": "filter_7",
+    "value": "filter_7"
+}, {
+    "name": "filter_8",
+    "value": "filter_8"
+}, {
+    "name": "filter_9",
+    "value": "filter_9"
+}, {
+    "name": "filter_9_plus",
+    "value": "filter_9_plus"
+}, {
+    "name": "filter_b_and_w",
+    "value": "filter_b_and_w"
+}, {
+    "name": "filter_center_focus",
+    "value": "filter_center_focus"
+}, {
+    "name": "filter_drama",
+    "value": "filter_drama"
+}, {
+    "name": "filter_frames",
+    "value": "filter_frames"
+}, {
+    "name": "filter_hdr",
+    "value": "filter_hdr"
+}, {
+    "name": "filter_list",
+    "value": "filter_list"
+}, {
+    "name": "filter_none",
+    "value": "filter_none"
+}, {
+    "name": "filter_tilt_shift",
+    "value": "filter_tilt_shift"
+}, {
+    "name": "filter_vintage",
+    "value": "filter_vintage"
+}, {
+    "name": "find_in_page",
+    "value": "find_in_page"
+}, {
+    "name": "find_replace",
+    "value": "find_replace"
+}, {
+    "name": "fingerprint",
+    "value": "fingerprint"
+}, {
+    "name": "first_page",
+    "value": "first_page"
+}, {
+    "name": "fitness_center",
+    "value": "fitness_center"
+}, {
+    "name": "flag",
+    "value": "flag"
+}, {
+    "name": "flare",
+    "value": "flare"
+}, {
+    "name": "flash_auto",
+    "value": "flash_auto"
+}, {
+    "name": "flash_off",
+    "value": "flash_off"
+}, {
+    "name": "flash_on",
+    "value": "flash_on"
+}, {
+    "name": "flight",
+    "value": "flight"
+}, {
+    "name": "flight_land",
+    "value": "flight_land"
+}, {
+    "name": "flight_takeoff",
+    "value": "flight_takeoff"
+}, {
+    "name": "flip",
+    "value": "flip"
+}, {
+    "name": "flip_to_back",
+    "value": "flip_to_back"
+}, {
+    "name": "flip_to_front",
+    "value": "flip_to_front"
+}, {
+    "name": "folder",
+    "value": "folder"
+}, {
+    "name": "folder_open",
+    "value": "folder_open"
+}, {
+    "name": "folder_shared",
+    "value": "folder_shared"
+}, {
+    "name": "folder_special",
+    "value": "folder_special"
+}, {
+    "name": "font_download",
+    "value": "font_download"
+}, {
+    "name": "format_align_center",
+    "value": "format_align_center"
+}, {
+    "name": "format_align_justify",
+    "value": "format_align_justify"
+}, {
+    "name": "format_align_left",
+    "value": "format_align_left"
+}, {
+    "name": "format_align_right",
+    "value": "format_align_right"
+}, {
+    "name": "format_bold",
+    "value": "format_bold"
+}, {
+    "name": "format_clear",
+    "value": "format_clear"
+}, {
+    "name": "format_color_fill",
+    "value": "format_color_fill"
+}, {
+    "name": "format_color_reset",
+    "value": "format_color_reset"
+}, {
+    "name": "format_color_text",
+    "value": "format_color_text"
+}, {
+    "name": "format_indent_decrease",
+    "value": "format_indent_decrease"
+}, {
+    "name": "format_indent_increase",
+    "value": "format_indent_increase"
+}, {
+    "name": "format_italic",
+    "value": "format_italic"
+}, {
+    "name": "format_line_spacing",
+    "value": "format_line_spacing"
+}, {
+    "name": "format_list_bulleted",
+    "value": "format_list_bulleted"
+}, {
+    "name": "format_list_numbered",
+    "value": "format_list_numbered"
+}, {
+    "name": "format_paint",
+    "value": "format_paint"
+}, {
+    "name": "format_quote",
+    "value": "format_quote"
+}, {
+    "name": "format_shapes",
+    "value": "format_shapes"
+}, {
+    "name": "format_size",
+    "value": "format_size"
+}, {
+    "name": "format_strikethrough",
+    "value": "format_strikethrough"
+}, {
+    "name": "format_textdirection_l_to_r",
+    "value": "format_textdirection_l_to_r"
+}, {
+    "name": "format_textdirection_r_to_l",
+    "value": "format_textdirection_r_to_l"
+}, {
+    "name": "format_underlined",
+    "value": "format_underlined"
+}, {
+    "name": "forum",
+    "value": "forum"
+}, {
+    "name": "forward",
+    "value": "forward"
+}, {
+    "name": "forward_10",
+    "value": "forward_10"
+}, {
+    "name": "forward_30",
+    "value": "forward_30"
+}, {
+    "name": "forward_5",
+    "value": "forward_5"
+}, {
+    "name": "free_breakfast",
+    "value": "free_breakfast"
+}, {
+    "name": "fullscreen",
+    "value": "fullscreen"
+}, {
+    "name": "fullscreen_exit",
+    "value": "fullscreen_exit"
+}, {
+    "name": "functions",
+    "value": "functions"
+}, {
+    "name": "g_translate",
+    "value": "g_translate"
+}, {
+    "name": "gamepad",
+    "value": "gamepad"
+}, {
+    "name": "games",
+    "value": "games"
+}, {
+    "name": "gavel",
+    "value": "gavel"
+}, {
+    "name": "gesture",
+    "value": "gesture"
+}, {
+    "name": "get_app",
+    "value": "get_app"
+}, {
+    "name": "gif",
+    "value": "gif"
+}, {
+    "name": "golf_course",
+    "value": "golf_course"
+}, {
+    "name": "gps_fixed",
+    "value": "gps_fixed"
+}, {
+    "name": "gps_not_fixed",
+    "value": "gps_not_fixed"
+}, {
+    "name": "gps_off",
+    "value": "gps_off"
+}, {
+    "name": "grade",
+    "value": "grade"
+}, {
+    "name": "gradient",
+    "value": "gradient"
+}, {
+    "name": "grain",
+    "value": "grain"
+}, {
+    "name": "graphic_eq",
+    "value": "graphic_eq"
+}, {
+    "name": "grid_off",
+    "value": "grid_off"
+}, {
+    "name": "grid_on",
+    "value": "grid_on"
+}, {
+    "name": "group",
+    "value": "group"
+}, {
+    "name": "group_add",
+    "value": "group_add"
+}, {
+    "name": "group_work",
+    "value": "group_work"
+}, {
+    "name": "hd",
+    "value": "hd"
+}, {
+    "name": "hdr_off",
+    "value": "hdr_off"
+}, {
+    "name": "hdr_on",
+    "value": "hdr_on"
+}, {
+    "name": "hdr_strong",
+    "value": "hdr_strong"
+}, {
+    "name": "hdr_weak",
+    "value": "hdr_weak"
+}, {
+    "name": "headset",
+    "value": "headset"
+}, {
+    "name": "headset_mic",
+    "value": "headset_mic"
+}, {
+    "name": "healing",
+    "value": "healing"
+}, {
+    "name": "hearing",
+    "value": "hearing"
+}, {
+    "name": "help",
+    "value": "help"
+}, {
+    "name": "help_outline",
+    "value": "help_outline"
+}, {
+    "name": "high_quality",
+    "value": "high_quality"
+}, {
+    "name": "highlight",
+    "value": "highlight"
+}, {
+    "name": "highlight_off",
+    "value": "highlight_off"
+}, {
+    "name": "history",
+    "value": "history"
+}, {
+    "name": "home",
+    "value": "home"
+}, {
+    "name": "hot_tub",
+    "value": "hot_tub"
+}, {
+    "name": "hotel",
+    "value": "hotel"
+}, {
+    "name": "hourglass_empty",
+    "value": "hourglass_empty"
+}, {
+    "name": "hourglass_full",
+    "value": "hourglass_full"
+}, {
+    "name": "http",
+    "value": "http"
+}, {
+    "name": "https",
+    "value": "https"
+}, {
+    "name": "image",
+    "value": "image"
+}, {
+    "name": "image_aspect_ratio",
+    "value": "image_aspect_ratio"
+}, {
+    "name": "import_contacts",
+    "value": "import_contacts"
+}, {
+    "name": "import_export",
+    "value": "import_export"
+}, {
+    "name": "important_devices",
+    "value": "important_devices"
+}, {
+    "name": "inbox",
+    "value": "inbox"
+}, {
+    "name": "indeterminate_check_box",
+    "value": "indeterminate_check_box"
+}, {
+    "name": "info",
+    "value": "info"
+}, {
+    "name": "info_outline",
+    "value": "info_outline"
+}, {
+    "name": "input",
+    "value": "input"
+}, {
+    "name": "insert_chart",
+    "value": "insert_chart"
+}, {
+    "name": "insert_comment",
+    "value": "insert_comment"
+}, {
+    "name": "insert_drive_file",
+    "value": "insert_drive_file"
+}, {
+    "name": "insert_emoticon",
+    "value": "insert_emoticon"
+}, {
+    "name": "insert_invitation",
+    "value": "insert_invitation"
+}, {
+    "name": "insert_link",
+    "value": "insert_link"
+}, {
+    "name": "insert_photo",
+    "value": "insert_photo"
+}, {
+    "name": "invert_colors",
+    "value": "invert_colors"
+}, {
+    "name": "invert_colors_off",
+    "value": "invert_colors_off"
+}, {
+    "name": "iso",
+    "value": "iso"
+}, {
+    "name": "keyboard",
+    "value": "keyboard"
+}, {
+    "name": "keyboard_arrow_down",
+    "value": "keyboard_arrow_down"
+}, {
+    "name": "keyboard_arrow_left",
+    "value": "keyboard_arrow_left"
+}, {
+    "name": "keyboard_arrow_right",
+    "value": "keyboard_arrow_right"
+}, {
+    "name": "keyboard_arrow_up",
+    "value": "keyboard_arrow_up"
+}, {
+    "name": "keyboard_backspace",
+    "value": "keyboard_backspace"
+}, {
+    "name": "keyboard_capslock",
+    "value": "keyboard_capslock"
+}, {
+    "name": "keyboard_hide",
+    "value": "keyboard_hide"
+}, {
+    "name": "keyboard_return",
+    "value": "keyboard_return"
+}, {
+    "name": "keyboard_tab",
+    "value": "keyboard_tab"
+}, {
+    "name": "keyboard_voice",
+    "value": "keyboard_voice"
+}, {
+    "name": "kitchen",
+    "value": "kitchen"
+}, {
+    "name": "label",
+    "value": "label"
+}, {
+    "name": "label_outline",
+    "value": "label_outline"
+}, {
+    "name": "landscape",
+    "value": "landscape"
+}, {
+    "name": "language",
+    "value": "language"
+}, {
+    "name": "laptop",
+    "value": "laptop"
+}, {
+    "name": "laptop_chromebook",
+    "value": "laptop_chromebook"
+}, {
+    "name": "laptop_mac",
+    "value": "laptop_mac"
+}, {
+    "name": "laptop_windows",
+    "value": "laptop_windows"
+}, {
+    "name": "last_page",
+    "value": "last_page"
+}, {
+    "name": "launch",
+    "value": "launch"
+}, {
+    "name": "layers",
+    "value": "layers"
+}, {
+    "name": "layers_clear",
+    "value": "layers_clear"
+}, {
+    "name": "leak_add",
+    "value": "leak_add"
+}, {
+    "name": "leak_remove",
+    "value": "leak_remove"
+}, {
+    "name": "lens",
+    "value": "lens"
+}, {
+    "name": "library_add",
+    "value": "library_add"
+}, {
+    "name": "library_books",
+    "value": "library_books"
+}, {
+    "name": "library_music",
+    "value": "library_music"
+}, {
+    "name": "lightbulb_outline",
+    "value": "lightbulb_outline"
+}, {
+    "name": "line_style",
+    "value": "line_style"
+}, {
+    "name": "line_weight",
+    "value": "line_weight"
+}, {
+    "name": "linear_scale",
+    "value": "linear_scale"
+}, {
+    "name": "link",
+    "value": "link"
+}, {
+    "name": "linked_camera",
+    "value": "linked_camera"
+}, {
+    "name": "list",
+    "value": "list"
+}, {
+    "name": "live_help",
+    "value": "live_help"
+}, {
+    "name": "live_tv",
+    "value": "live_tv"
+}, {
+    "name": "local_activity",
+    "value": "local_activity"
+}, {
+    "name": "local_airport",
+    "value": "local_airport"
+}, {
+    "name": "local_atm",
+    "value": "local_atm"
+}, {
+    "name": "local_bar",
+    "value": "local_bar"
+}, {
+    "name": "local_cafe",
+    "value": "local_cafe"
+}, {
+    "name": "local_car_wash",
+    "value": "local_car_wash"
+}, {
+    "name": "local_convenience_store",
+    "value": "local_convenience_store"
+}, {
+    "name": "local_dining",
+    "value": "local_dining"
+}, {
+    "name": "local_drink",
+    "value": "local_drink"
+}, {
+    "name": "local_florist",
+    "value": "local_florist"
+}, {
+    "name": "local_gas_station",
+    "value": "local_gas_station"
+}, {
+    "name": "local_grocery_store",
+    "value": "local_grocery_store"
+}, {
+    "name": "local_hospital",
+    "value": "local_hospital"
+}, {
+    "name": "local_hotel",
+    "value": "local_hotel"
+}, {
+    "name": "local_laundry_service",
+    "value": "local_laundry_service"
+}, {
+    "name": "local_library",
+    "value": "local_library"
+}, {
+    "name": "local_mall",
+    "value": "local_mall"
+}, {
+    "name": "local_movies",
+    "value": "local_movies"
+}, {
+    "name": "local_offer",
+    "value": "local_offer"
+}, {
+    "name": "local_parking",
+    "value": "local_parking"
+}, {
+    "name": "local_pharmacy",
+    "value": "local_pharmacy"
+}, {
+    "name": "local_phone",
+    "value": "local_phone"
+}, {
+    "name": "local_pizza",
+    "value": "local_pizza"
+}, {
+    "name": "local_play",
+    "value": "local_play"
+}, {
+    "name": "local_post_office",
+    "value": "local_post_office"
+}, {
+    "name": "local_printshop",
+    "value": "local_printshop"
+}, {
+    "name": "local_see",
+    "value": "local_see"
+}, {
+    "name": "local_shipping",
+    "value": "local_shipping"
+}, {
+    "name": "local_taxi",
+    "value": "local_taxi"
+}, {
+    "name": "location_city",
+    "value": "location_city"
+}, {
+    "name": "location_disabled",
+    "value": "location_disabled"
+}, {
+    "name": "location_off",
+    "value": "location_off"
+}, {
+    "name": "location_on",
+    "value": "location_on"
+}, {
+    "name": "location_searching",
+    "value": "location_searching"
+}, {
+    "name": "lock",
+    "value": "lock"
+}, {
+    "name": "lock_open",
+    "value": "lock_open"
+}, {
+    "name": "lock_outline",
+    "value": "lock_outline"
+}, {
+    "name": "looks",
+    "value": "looks"
+}, {
+    "name": "looks_3",
+    "value": "looks_3"
+}, {
+    "name": "looks_4",
+    "value": "looks_4"
+}, {
+    "name": "looks_5",
+    "value": "looks_5"
+}, {
+    "name": "looks_6",
+    "value": "looks_6"
+}, {
+    "name": "looks_one",
+    "value": "looks_one"
+}, {
+    "name": "looks_two",
+    "value": "looks_two"
+}, {
+    "name": "loop",
+    "value": "loop"
+}, {
+    "name": "loupe",
+    "value": "loupe"
+}, {
+    "name": "low_priority",
+    "value": "low_priority"
+}, {
+    "name": "loyalty",
+    "value": "loyalty"
+}, {
+    "name": "mail",
+    "value": "mail"
+}, {
+    "name": "mail_outline",
+    "value": "mail_outline"
+}, {
+    "name": "map",
+    "value": "map"
+}, {
+    "name": "markunread",
+    "value": "markunread"
+}, {
+    "name": "markunread_mailbox",
+    "value": "markunread_mailbox"
+}, {
+    "name": "memory",
+    "value": "memory"
+}, {
+    "name": "menu",
+    "value": "menu"
+}, {
+    "name": "merge_type",
+    "value": "merge_type"
+}, {
+    "name": "message",
+    "value": "message"
+}, {
+    "name": "mic",
+    "value": "mic"
+}, {
+    "name": "mic_none",
+    "value": "mic_none"
+}, {
+    "name": "mic_off",
+    "value": "mic_off"
+}, {
+    "name": "mms",
+    "value": "mms"
+}, {
+    "name": "mode_comment",
+    "value": "mode_comment"
+}, {
+    "name": "mode_edit",
+    "value": "mode_edit"
+}, {
+    "name": "monetization_on",
+    "value": "monetization_on"
+}, {
+    "name": "money_off",
+    "value": "money_off"
+}, {
+    "name": "monochrome_photos",
+    "value": "monochrome_photos"
+}, {
+    "name": "mood",
+    "value": "mood"
+}, {
+    "name": "mood_bad",
+    "value": "mood_bad"
+}, {
+    "name": "more",
+    "value": "more"
+}, {
+    "name": "more_horiz",
+    "value": "more_horiz"
+}, {
+    "name": "more_vert",
+    "value": "more_vert"
+}, {
+    "name": "motorcycle",
+    "value": "motorcycle"
+}, {
+    "name": "mouse",
+    "value": "mouse"
+}, {
+    "name": "move_to_inbox",
+    "value": "move_to_inbox"
+}, {
+    "name": "movie",
+    "value": "movie"
+}, {
+    "name": "movie_creation",
+    "value": "movie_creation"
+}, {
+    "name": "movie_filter",
+    "value": "movie_filter"
+}, {
+    "name": "multiline_chart",
+    "value": "multiline_chart"
+}, {
+    "name": "music_note",
+    "value": "music_note"
+}, {
+    "name": "music_video",
+    "value": "music_video"
+}, {
+    "name": "my_location",
+    "value": "my_location"
+}, {
+    "name": "nature",
+    "value": "nature"
+}, {
+    "name": "nature_people",
+    "value": "nature_people"
+}, {
+    "name": "navigate_before",
+    "value": "navigate_before"
+}, {
+    "name": "navigate_next",
+    "value": "navigate_next"
+}, {
+    "name": "navigation",
+    "value": "navigation"
+}, {
+    "name": "near_me",
+    "value": "near_me"
+}, {
+    "name": "network_cell",
+    "value": "network_cell"
+}, {
+    "name": "network_check",
+    "value": "network_check"
+}, {
+    "name": "network_locked",
+    "value": "network_locked"
+}, {
+    "name": "network_wifi",
+    "value": "network_wifi"
+}, {
+    "name": "new_releases",
+    "value": "new_releases"
+}, {
+    "name": "next_week",
+    "value": "next_week"
+}, {
+    "name": "nfc",
+    "value": "nfc"
+}, {
+    "name": "no_encryption",
+    "value": "no_encryption"
+}, {
+    "name": "no_sim",
+    "value": "no_sim"
+}, {
+    "name": "not_interested",
+    "value": "not_interested"
+}, {
+    "name": "note",
+    "value": "note"
+}, {
+    "name": "note_add",
+    "value": "note_add"
+}, {
+    "name": "notifications",
+    "value": "notifications"
+}, {
+    "name": "notifications_active",
+    "value": "notifications_active"
+}, {
+    "name": "notifications_none",
+    "value": "notifications_none"
+}, {
+    "name": "notifications_off",
+    "value": "notifications_off"
+}, {
+    "name": "notifications_paused",
+    "value": "notifications_paused"
+}, {
+    "name": "offline_pin",
+    "value": "offline_pin"
+}, {
+    "name": "ondemand_video",
+    "value": "ondemand_video"
+}, {
+    "name": "opacity",
+    "value": "opacity"
+}, {
+    "name": "open_in_browser",
+    "value": "open_in_browser"
+}, {
+    "name": "open_in_new",
+    "value": "open_in_new"
+}, {
+    "name": "open_with",
+    "value": "open_with"
+}, {
+    "name": "pages",
+    "value": "pages"
+}, {
+    "name": "pageview",
+    "value": "pageview"
+}, {
+    "name": "palette",
+    "value": "palette"
+}, {
+    "name": "pan_tool",
+    "value": "pan_tool"
+}, {
+    "name": "panorama",
+    "value": "panorama"
+}, {
+    "name": "panorama_fish_eye",
+    "value": "panorama_fish_eye"
+}, {
+    "name": "panorama_horizontal",
+    "value": "panorama_horizontal"
+}, {
+    "name": "panorama_vertical",
+    "value": "panorama_vertical"
+}, {
+    "name": "panorama_wide_angle",
+    "value": "panorama_wide_angle"
+}, {
+    "name": "party_mode",
+    "value": "party_mode"
+}, {
+    "name": "pause",
+    "value": "pause"
+}, {
+    "name": "pause_circle_filled",
+    "value": "pause_circle_filled"
+}, {
+    "name": "pause_circle_outline",
+    "value": "pause_circle_outline"
+}, {
+    "name": "payment",
+    "value": "payment"
+}, {
+    "name": "people",
+    "value": "people"
+}, {
+    "name": "people_outline",
+    "value": "people_outline"
+}, {
+    "name": "perm_camera_mic",
+    "value": "perm_camera_mic"
+}, {
+    "name": "perm_contact_calendar",
+    "value": "perm_contact_calendar"
+}, {
+    "name": "perm_data_setting",
+    "value": "perm_data_setting"
+}, {
+    "name": "perm_device_information",
+    "value": "perm_device_information"
+}, {
+    "name": "perm_identity",
+    "value": "perm_identity"
+}, {
+    "name": "perm_media",
+    "value": "perm_media"
+}, {
+    "name": "perm_phone_msg",
+    "value": "perm_phone_msg"
+}, {
+    "name": "perm_scan_wifi",
+    "value": "perm_scan_wifi"
+}, {
+    "name": "person",
+    "value": "person"
+}, {
+    "name": "person_add",
+    "value": "person_add"
+}, {
+    "name": "person_outline",
+    "value": "person_outline"
+}, {
+    "name": "person_pin",
+    "value": "person_pin"
+}, {
+    "name": "person_pin_circle",
+    "value": "person_pin_circle"
+}, {
+    "name": "personal_video",
+    "value": "personal_video"
+}, {
+    "name": "pets",
+    "value": "pets"
+}, {
+    "name": "phone",
+    "value": "phone"
+}, {
+    "name": "phone_android",
+    "value": "phone_android"
+}, {
+    "name": "phone_bluetooth_speaker",
+    "value": "phone_bluetooth_speaker"
+}, {
+    "name": "phone_forwarded",
+    "value": "phone_forwarded"
+}, {
+    "name": "phone_in_talk",
+    "value": "phone_in_talk"
+}, {
+    "name": "phone_iphone",
+    "value": "phone_iphone"
+}, {
+    "name": "phone_locked",
+    "value": "phone_locked"
+}, {
+    "name": "phone_missed",
+    "value": "phone_missed"
+}, {
+    "name": "phone_paused",
+    "value": "phone_paused"
+}, {
+    "name": "phonelink",
+    "value": "phonelink"
+}, {
+    "name": "phonelink_erase",
+    "value": "phonelink_erase"
+}, {
+    "name": "phonelink_lock",
+    "value": "phonelink_lock"
+}, {
+    "name": "phonelink_off",
+    "value": "phonelink_off"
+}, {
+    "name": "phonelink_ring",
+    "value": "phonelink_ring"
+}, {
+    "name": "phonelink_setup",
+    "value": "phonelink_setup"
+}, {
+    "name": "photo",
+    "value": "photo"
+}, {
+    "name": "photo_album",
+    "value": "photo_album"
+}, {
+    "name": "photo_camera",
+    "value": "photo_camera"
+}, {
+    "name": "photo_filter",
+    "value": "photo_filter"
+}, {
+    "name": "photo_library",
+    "value": "photo_library"
+}, {
+    "name": "photo_size_select_actual",
+    "value": "photo_size_select_actual"
+}, {
+    "name": "photo_size_select_large",
+    "value": "photo_size_select_large"
+}, {
+    "name": "photo_size_select_small",
+    "value": "photo_size_select_small"
+}, {
+    "name": "picture_as_pdf",
+    "value": "picture_as_pdf"
+}, {
+    "name": "picture_in_picture",
+    "value": "picture_in_picture"
+}, {
+    "name": "picture_in_picture_alt",
+    "value": "picture_in_picture_alt"
+}, {
+    "name": "pie_chart",
+    "value": "pie_chart"
+}, {
+    "name": "pie_chart_outlined",
+    "value": "pie_chart_outlined"
+}, {
+    "name": "pin_drop",
+    "value": "pin_drop"
+}, {
+    "name": "place",
+    "value": "place"
+}, {
+    "name": "play_arrow",
+    "value": "play_arrow"
+}, {
+    "name": "play_circle_filled",
+    "value": "play_circle_filled"
+}, {
+    "name": "play_circle_outline",
+    "value": "play_circle_outline"
+}, {
+    "name": "play_for_work",
+    "value": "play_for_work"
+}, {
+    "name": "playlist_add",
+    "value": "playlist_add"
+}, {
+    "name": "playlist_add_check",
+    "value": "playlist_add_check"
+}, {
+    "name": "playlist_play",
+    "value": "playlist_play"
+}, {
+    "name": "plus_one",
+    "value": "plus_one"
+}, {
+    "name": "poll",
+    "value": "poll"
+}, {
+    "name": "polymer",
+    "value": "polymer"
+}, {
+    "name": "pool",
+    "value": "pool"
+}, {
+    "name": "portable_wifi_off",
+    "value": "portable_wifi_off"
+}, {
+    "name": "portrait",
+    "value": "portrait"
+}, {
+    "name": "power",
+    "value": "power"
+}, {
+    "name": "power_input",
+    "value": "power_input"
+}, {
+    "name": "power_settings_new",
+    "value": "power_settings_new"
+}, {
+    "name": "pregnant_woman",
+    "value": "pregnant_woman"
+}, {
+    "name": "present_to_all",
+    "value": "present_to_all"
+}, {
+    "name": "print",
+    "value": "print"
+}, {
+    "name": "priority_high",
+    "value": "priority_high"
+}, {
+    "name": "public",
+    "value": "public"
+}, {
+    "name": "publish",
+    "value": "publish"
+}, {
+    "name": "query_builder",
+    "value": "query_builder"
+}, {
+    "name": "question_answer",
+    "value": "question_answer"
+}, {
+    "name": "queue",
+    "value": "queue"
+}, {
+    "name": "queue_music",
+    "value": "queue_music"
+}, {
+    "name": "queue_play_next",
+    "value": "queue_play_next"
+}, {
+    "name": "radio",
+    "value": "radio"
+}, {
+    "name": "radio_button_checked",
+    "value": "radio_button_checked"
+}, {
+    "name": "radio_button_unchecked",
+    "value": "radio_button_unchecked"
+}, {
+    "name": "rate_review",
+    "value": "rate_review"
+}, {
+    "name": "receipt",
+    "value": "receipt"
+}, {
+    "name": "recent_actors",
+    "value": "recent_actors"
+}, {
+    "name": "record_voice_over",
+    "value": "record_voice_over"
+}, {
+    "name": "redeem",
+    "value": "redeem"
+}, {
+    "name": "redo",
+    "value": "redo"
+}, {
+    "name": "refresh",
+    "value": "refresh"
+}, {
+    "name": "remove",
+    "value": "remove"
+}, {
+    "name": "remove_circle",
+    "value": "remove_circle"
+}, {
+    "name": "remove_circle_outline",
+    "value": "remove_circle_outline"
+}, {
+    "name": "remove_from_queue",
+    "value": "remove_from_queue"
+}, {
+    "name": "remove_red_eye",
+    "value": "remove_red_eye"
+}, {
+    "name": "remove_shopping_cart",
+    "value": "remove_shopping_cart"
+}, {
+    "name": "reorder",
+    "value": "reorder"
+}, {
+    "name": "repeat",
+    "value": "repeat"
+}, {
+    "name": "repeat_one",
+    "value": "repeat_one"
+}, {
+    "name": "replay",
+    "value": "replay"
+}, {
+    "name": "replay_10",
+    "value": "replay_10"
+}, {
+    "name": "replay_30",
+    "value": "replay_30"
+}, {
+    "name": "replay_5",
+    "value": "replay_5"
+}, {
+    "name": "reply",
+    "value": "reply"
+}, {
+    "name": "reply_all",
+    "value": "reply_all"
+}, {
+    "name": "report",
+    "value": "report"
+}, {
+    "name": "report_problem",
+    "value": "report_problem"
+}, {
+    "name": "restaurant",
+    "value": "restaurant"
+}, {
+    "name": "restaurant_menu",
+    "value": "restaurant_menu"
+}, {
+    "name": "restore",
+    "value": "restore"
+}, {
+    "name": "restore_page",
+    "value": "restore_page"
+}, {
+    "name": "ring_volume",
+    "value": "ring_volume"
+}, {
+    "name": "room",
+    "value": "room"
+}, {
+    "name": "room_service",
+    "value": "room_service"
+}, {
+    "name": "rotate_90_degrees_ccw",
+    "value": "rotate_90_degrees_ccw"
+}, {
+    "name": "rotate_left",
+    "value": "rotate_left"
+}, {
+    "name": "rotate_right",
+    "value": "rotate_right"
+}, {
+    "name": "rounded_corner",
+    "value": "rounded_corner"
+}, {
+    "name": "router",
+    "value": "router"
+}, {
+    "name": "rowing",
+    "value": "rowing"
+}, {
+    "name": "rss_feed",
+    "value": "rss_feed"
+}, {
+    "name": "rv_hookup",
+    "value": "rv_hookup"
+}, {
+    "name": "satellite",
+    "value": "satellite"
+}, {
+    "name": "save",
+    "value": "save"
+}, {
+    "name": "scanner",
+    "value": "scanner"
+}, {
+    "name": "schedule",
+    "value": "schedule"
+}, {
+    "name": "school",
+    "value": "school"
+}, {
+    "name": "screen_lock_landscape",
+    "value": "screen_lock_landscape"
+}, {
+    "name": "screen_lock_portrait",
+    "value": "screen_lock_portrait"
+}, {
+    "name": "screen_lock_rotation",
+    "value": "screen_lock_rotation"
+}, {
+    "name": "screen_rotation",
+    "value": "screen_rotation"
+}, {
+    "name": "screen_share",
+    "value": "screen_share"
+}, {
+    "name": "sd_card",
+    "value": "sd_card"
+}, {
+    "name": "sd_storage",
+    "value": "sd_storage"
+}, {
+    "name": "search",
+    "value": "search"
+}, {
+    "name": "security",
+    "value": "security"
+}, {
+    "name": "select_all",
+    "value": "select_all"
+}, {
+    "name": "send",
+    "value": "send"
+}, {
+    "name": "sentiment_dissatisfied",
+    "value": "sentiment_dissatisfied"
+}, {
+    "name": "sentiment_neutral",
+    "value": "sentiment_neutral"
+}, {
+    "name": "sentiment_satisfied",
+    "value": "sentiment_satisfied"
+}, {
+    "name": "sentiment_very_dissatisfied",
+    "value": "sentiment_very_dissatisfied"
+}, {
+    "name": "sentiment_very_satisfied",
+    "value": "sentiment_very_satisfied"
+}, {
+    "name": "settings",
+    "value": "settings"
+}, {
+    "name": "settings_applications",
+    "value": "settings_applications"
+}, {
+    "name": "settings_backup_restore",
+    "value": "settings_backup_restore"
+}, {
+    "name": "settings_bluetooth",
+    "value": "settings_bluetooth"
+}, {
+    "name": "settings_brightness",
+    "value": "settings_brightness"
+}, {
+    "name": "settings_cell",
+    "value": "settings_cell"
+}, {
+    "name": "settings_ethernet",
+    "value": "settings_ethernet"
+}, {
+    "name": "settings_input_antenna",
+    "value": "settings_input_antenna"
+}, {
+    "name": "settings_input_component",
+    "value": "settings_input_component"
+}, {
+    "name": "settings_input_composite",
+    "value": "settings_input_composite"
+}, {
+    "name": "settings_input_hdmi",
+    "value": "settings_input_hdmi"
+}, {
+    "name": "settings_input_svideo",
+    "value": "settings_input_svideo"
+}, {
+    "name": "settings_overscan",
+    "value": "settings_overscan"
+}, {
+    "name": "settings_phone",
+    "value": "settings_phone"
+}, {
+    "name": "settings_power",
+    "value": "settings_power"
+}, {
+    "name": "settings_remote",
+    "value": "settings_remote"
+}, {
+    "name": "settings_system_daydream",
+    "value": "settings_system_daydream"
+}, {
+    "name": "settings_voice",
+    "value": "settings_voice"
+}, {
+    "name": "share",
+    "value": "share"
+}, {
+    "name": "shop",
+    "value": "shop"
+}, {
+    "name": "shop_two",
+    "value": "shop_two"
+}, {
+    "name": "shopping_basket",
+    "value": "shopping_basket"
+}, {
+    "name": "shopping_cart",
+    "value": "shopping_cart"
+}, {
+    "name": "short_text",
+    "value": "short_text"
+}, {
+    "name": "show_chart",
+    "value": "show_chart"
+}, {
+    "name": "shuffle",
+    "value": "shuffle"
+}, {
+    "name": "signal_cellular_4_bar",
+    "value": "signal_cellular_4_bar"
+}, {
+    "name": "signal_cellular_connected_no_internet_4_bar",
+    "value": "signal_cellular_connected_no_internet_4_bar"
+}, {
+    "name": "signal_cellular_no_sim",
+    "value": "signal_cellular_no_sim"
+}, {
+    "name": "signal_cellular_null",
+    "value": "signal_cellular_null"
+}, {
+    "name": "signal_cellular_off",
+    "value": "signal_cellular_off"
+}, {
+    "name": "signal_wifi_4_bar",
+    "value": "signal_wifi_4_bar"
+}, {
+    "name": "signal_wifi_4_bar_lock",
+    "value": "signal_wifi_4_bar_lock"
+}, {
+    "name": "signal_wifi_off",
+    "value": "signal_wifi_off"
+}, {
+    "name": "sim_card",
+    "value": "sim_card"
+}, {
+    "name": "sim_card_alert",
+    "value": "sim_card_alert"
+}, {
+    "name": "skip_next",
+    "value": "skip_next"
+}, {
+    "name": "skip_previous",
+    "value": "skip_previous"
+}, {
+    "name": "slideshow",
+    "value": "slideshow"
+}, {
+    "name": "slow_motion_video",
+    "value": "slow_motion_video"
+}, {
+    "name": "smartphone",
+    "value": "smartphone"
+}, {
+    "name": "smoke_free",
+    "value": "smoke_free"
+}, {
+    "name": "smoking_rooms",
+    "value": "smoking_rooms"
+}, {
+    "name": "sms",
+    "value": "sms"
+}, {
+    "name": "sms_failed",
+    "value": "sms_failed"
+}, {
+    "name": "snooze",
+    "value": "snooze"
+}, {
+    "name": "sort",
+    "value": "sort"
+}, {
+    "name": "sort_by_alpha",
+    "value": "sort_by_alpha"
+}, {
+    "name": "spa",
+    "value": "spa"
+}, {
+    "name": "space_bar",
+    "value": "space_bar"
+}, {
+    "name": "speaker",
+    "value": "speaker"
+}, {
+    "name": "speaker_group",
+    "value": "speaker_group"
+}, {
+    "name": "speaker_notes",
+    "value": "speaker_notes"
+}, {
+    "name": "speaker_notes_off",
+    "value": "speaker_notes_off"
+}, {
+    "name": "speaker_phone",
+    "value": "speaker_phone"
+}, {
+    "name": "spellcheck",
+    "value": "spellcheck"
+}, {
+    "name": "star",
+    "value": "star"
+}, {
+    "name": "star_border",
+    "value": "star_border"
+}, {
+    "name": "star_half",
+    "value": "star_half"
+}, {
+    "name": "stars",
+    "value": "stars"
+}, {
+    "name": "stay_current_landscape",
+    "value": "stay_current_landscape"
+}, {
+    "name": "stay_current_portrait",
+    "value": "stay_current_portrait"
+}, {
+    "name": "stay_primary_landscape",
+    "value": "stay_primary_landscape"
+}, {
+    "name": "stay_primary_portrait",
+    "value": "stay_primary_portrait"
+}, {
+    "name": "stop",
+    "value": "stop"
+}, {
+    "name": "stop_screen_share",
+    "value": "stop_screen_share"
+}, {
+    "name": "storage",
+    "value": "storage"
+}, {
+    "name": "store",
+    "value": "store"
+}, {
+    "name": "store_mall_directory",
+    "value": "store_mall_directory"
+}, {
+    "name": "straighten",
+    "value": "straighten"
+}, {
+    "name": "streetview",
+    "value": "streetview"
+}, {
+    "name": "strikethrough_s",
+    "value": "strikethrough_s"
+}, {
+    "name": "style",
+    "value": "style"
+}, {
+    "name": "subdirectory_arrow_left",
+    "value": "subdirectory_arrow_left"
+}, {
+    "name": "subdirectory_arrow_right",
+    "value": "subdirectory_arrow_right"
+}, {
+    "name": "subject",
+    "value": "subject"
+}, {
+    "name": "subscriptions",
+    "value": "subscriptions"
+}, {
+    "name": "subtitles",
+    "value": "subtitles"
+}, {
+    "name": "subway",
+    "value": "subway"
+}, {
+    "name": "supervisor_account",
+    "value": "supervisor_account"
+}, {
+    "name": "surround_sound",
+    "value": "surround_sound"
+}, {
+    "name": "swap_calls",
+    "value": "swap_calls"
+}, {
+    "name": "swap_horiz",
+    "value": "swap_horiz"
+}, {
+    "name": "swap_vert",
+    "value": "swap_vert"
+}, {
+    "name": "swap_vertical_circle",
+    "value": "swap_vertical_circle"
+}, {
+    "name": "switch_camera",
+    "value": "switch_camera"
+}, {
+    "name": "switch_video",
+    "value": "switch_video"
+}, {
+    "name": "sync",
+    "value": "sync"
+}, {
+    "name": "sync_disabled",
+    "value": "sync_disabled"
+}, {
+    "name": "sync_problem",
+    "value": "sync_problem"
+}, {
+    "name": "system_update",
+    "value": "system_update"
+}, {
+    "name": "system_update_alt",
+    "value": "system_update_alt"
+}, {
+    "name": "tab",
+    "value": "tab"
+}, {
+    "name": "tab_unselected",
+    "value": "tab_unselected"
+}, {
+    "name": "tablet",
+    "value": "tablet"
+}, {
+    "name": "tablet_android",
+    "value": "tablet_android"
+}, {
+    "name": "tablet_mac",
+    "value": "tablet_mac"
+}, {
+    "name": "tag_faces",
+    "value": "tag_faces"
+}, {
+    "name": "tap_and_play",
+    "value": "tap_and_play"
+}, {
+    "name": "terrain",
+    "value": "terrain"
+}, {
+    "name": "text_fields",
+    "value": "text_fields"
+}, {
+    "name": "text_format",
+    "value": "text_format"
+}, {
+    "name": "textsms",
+    "value": "textsms"
+}, {
+    "name": "texture",
+    "value": "texture"
+}, {
+    "name": "theaters",
+    "value": "theaters"
+}, {
+    "name": "thumb_down",
+    "value": "thumb_down"
+}, {
+    "name": "thumb_up",
+    "value": "thumb_up"
+}, {
+    "name": "thumbs_up_down",
+    "value": "thumbs_up_down"
+}, {
+    "name": "time_to_leave",
+    "value": "time_to_leave"
+}, {
+    "name": "timelapse",
+    "value": "timelapse"
+}, {
+    "name": "timeline",
+    "value": "timeline"
+}, {
+    "name": "timer",
+    "value": "timer"
+}, {
+    "name": "timer_10",
+    "value": "timer_10"
+}, {
+    "name": "timer_3",
+    "value": "timer_3"
+}, {
+    "name": "timer_off",
+    "value": "timer_off"
+}, {
+    "name": "title",
+    "value": "title"
+}, {
+    "name": "toc",
+    "value": "toc"
+}, {
+    "name": "today",
+    "value": "today"
+}, {
+    "name": "toll",
+    "value": "toll"
+}, {
+    "name": "tonality",
+    "value": "tonality"
+}, {
+    "name": "touch_app",
+    "value": "touch_app"
+}, {
+    "name": "toys",
+    "value": "toys"
+}, {
+    "name": "track_changes",
+    "value": "track_changes"
+}, {
+    "name": "traffic",
+    "value": "traffic"
+}, {
+    "name": "train",
+    "value": "train"
+}, {
+    "name": "tram",
+    "value": "tram"
+}, {
+    "name": "transfer_within_a_station",
+    "value": "transfer_within_a_station"
+}, {
+    "name": "transform",
+    "value": "transform"
+}, {
+    "name": "translate",
+    "value": "translate"
+}, {
+    "name": "trending_down",
+    "value": "trending_down"
+}, {
+    "name": "trending_flat",
+    "value": "trending_flat"
+}, {
+    "name": "trending_up",
+    "value": "trending_up"
+}, {
+    "name": "tune",
+    "value": "tune"
+}, {
+    "name": "turned_in",
+    "value": "turned_in"
+}, {
+    "name": "turned_in_not",
+    "value": "turned_in_not"
+}, {
+    "name": "tv",
+    "value": "tv"
+}, {
+    "name": "unarchive",
+    "value": "unarchive"
+}, {
+    "name": "undo",
+    "value": "undo"
+}, {
+    "name": "unfold_less",
+    "value": "unfold_less"
+}, {
+    "name": "unfold_more",
+    "value": "unfold_more"
+}, {
+    "name": "update",
+    "value": "update"
+}, {
+    "name": "usb",
+    "value": "usb"
+}, {
+    "name": "verified_user",
+    "value": "verified_user"
+}, {
+    "name": "vertical_align_bottom",
+    "value": "vertical_align_bottom"
+}, {
+    "name": "vertical_align_center",
+    "value": "vertical_align_center"
+}, {
+    "name": "vertical_align_top",
+    "value": "vertical_align_top"
+}, {
+    "name": "vibration",
+    "value": "vibration"
+}, {
+    "name": "video_call",
+    "value": "video_call"
+}, {
+    "name": "video_label",
+    "value": "video_label"
+}, {
+    "name": "video_library",
+    "value": "video_library"
+}, {
+    "name": "videocam",
+    "value": "videocam"
+}, {
+    "name": "videocam_off",
+    "value": "videocam_off"
+}, {
+    "name": "videogame_asset",
+    "value": "videogame_asset"
+}, {
+    "name": "view_agenda",
+    "value": "view_agenda"
+}, {
+    "name": "view_array",
+    "value": "view_array"
+}, {
+    "name": "view_carousel",
+    "value": "view_carousel"
+}, {
+    "name": "view_column",
+    "value": "view_column"
+}, {
+    "name": "view_comfy",
+    "value": "view_comfy"
+}, {
+    "name": "view_compact",
+    "value": "view_compact"
+}, {
+    "name": "view_day",
+    "value": "view_day"
+}, {
+    "name": "view_headline",
+    "value": "view_headline"
+}, {
+    "name": "view_list",
+    "value": "view_list"
+}, {
+    "name": "view_module",
+    "value": "view_module"
+}, {
+    "name": "view_quilt",
+    "value": "view_quilt"
+}, {
+    "name": "view_stream",
+    "value": "view_stream"
+}, {
+    "name": "view_week",
+    "value": "view_week"
+}, {
+    "name": "vignette",
+    "value": "vignette"
+}, {
+    "name": "visibility",
+    "value": "visibility"
+}, {
+    "name": "visibility_off",
+    "value": "visibility_off"
+}, {
+    "name": "voice_chat",
+    "value": "voice_chat"
+}, {
+    "name": "voicemail",
+    "value": "voicemail"
+}, {
+    "name": "volume_down",
+    "value": "volume_down"
+}, {
+    "name": "volume_mute",
+    "value": "volume_mute"
+}, {
+    "name": "volume_off",
+    "value": "volume_off"
+}, {
+    "name": "volume_up",
+    "value": "volume_up"
+}, {
+    "name": "vpn_key",
+    "value": "vpn_key"
+}, {
+    "name": "vpn_lock",
+    "value": "vpn_lock"
+}, {
+    "name": "wallpaper",
+    "value": "wallpaper"
+}, {
+    "name": "warning",
+    "value": "warning"
+}, {
+    "name": "watch",
+    "value": "watch"
+}, {
+    "name": "watch_later",
+    "value": "watch_later"
+}, {
+    "name": "wb_auto",
+    "value": "wb_auto"
+}, {
+    "name": "wb_cloudy",
+    "value": "wb_cloudy"
+}, {
+    "name": "wb_incandescent",
+    "value": "wb_incandescent"
+}, {
+    "name": "wb_iridescent",
+    "value": "wb_iridescent"
+}, {
+    "name": "wb_sunny",
+    "value": "wb_sunny"
+}, {
+    "name": "wc",
+    "value": "wc"
+}, {
+    "name": "web",
+    "value": "web"
+}, {
+    "name": "web_asset",
+    "value": "web_asset"
+}, {
+    "name": "weekend",
+    "value": "weekend"
+}, {
+    "name": "whatshot",
+    "value": "whatshot"
+}, {
+    "name": "widgets",
+    "value": "widgets"
+}, {
+    "name": "wifi",
+    "value": "wifi"
+}, {
+    "name": "wifi_lock",
+    "value": "wifi_lock"
+}, {
+    "name": "wifi_tethering",
+    "value": "wifi_tethering"
+}, {
+    "name": "work",
+    "value": "work"
+}, {
+    "name": "wrap_text",
+    "value": "wrap_text"
+}, {
+    "name": "youtube_searched_for",
+    "value": "youtube_searched_for"
+}, {
+    "name": "zoom_in",
+    "value": "zoom_in"
+}, {
+    "name": "zoom_out",
+    "value": "zoom_out"
+}, {
+    "name": "zoom_out_map",
+    "value": "zoom_out_map"
+}, {
+    "name": "",
+    "value": ""
+}]
